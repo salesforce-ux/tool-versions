@@ -11,7 +11,7 @@
 </item>
 <item>
   <title>Version 2.0.0</title>
-  <enclosure url="https://drive.google.com/uc?export=download&id=1mFtZTnsWgG0xNrFNNbNJnON65j_KKxoo" sparkle:version="2.0.0"/>
+  <enclosure url="https://github.com/salesforce-ux/design-system-sketch/releases/download/v2.0.0/design-system-sketch-plugin.sketchplugin.zip" sparkle:version="2.0.0"/>
 </item>
 </channel>
 </rss>
