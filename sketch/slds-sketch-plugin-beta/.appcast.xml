@@ -6,8 +6,8 @@
 <description>A Sketch plugin for using SLDS libraries</description>
 <language>en</language>
 <item>
-  <title>Version 3.0.1</title>
-  <enclosure url="https://github.com/salesforce-ux/design-system-sketch/releases/download/v2.1.0/design-system-sketch.sketchplugin.zip" sparkle:version="3.0.1"/>
+  <title>Version 3.0.0</title>
+  <enclosure url="https://github.com/salesforce-ux/design-system-sketch/releases/download/v3.0.0-beta/design-system-sketch.sketchplugin.zip" sparkle:version="3.0.0"/>
 </item>
 </channel>
 </rss>
